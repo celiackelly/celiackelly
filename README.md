@@ -9,9 +9,9 @@
 
 - ✨ All of my projects are available at [https://www.celiackelly.com/](https://www.celiackelly.com/)
 
-- 💬 Ask me about **language learning, flying trapeze, word games**
+- 💬 Ask me about: **language learning, flying trapeze, word games**
 
-- ⚡ Fun fact **I used to run a Harry Potter Camp- and it was epic!**
+- ⚡ Fun fact: **I used to run a Harry Potter Camp- and it was epic!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
