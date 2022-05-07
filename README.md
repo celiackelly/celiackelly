@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **language learning, flying trapeze, word games**
 
-- ⚡ Fun fact: **I used to run a Harry Potter Camp- and it was epic!**
+- ⚡ Fun fact: **I used to run a Harry Potter Camp- and it was magical!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
