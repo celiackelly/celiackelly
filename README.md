@@ -3,7 +3,7 @@
 
 - 💻 I’m currently working on [Codewars Rivals](https://github.com/celiackelly/codewars-rivals)
 
-- 🌱 I’m currently learning **OOP in Javascript and APIs**
+- 🌱 I’m currently learning **CRUD apps with Express and MongoDB**
 
 - 📚 I'm interested in **natural language processing**
 
