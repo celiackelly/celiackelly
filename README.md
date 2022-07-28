@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Celia Kelly</h1>
 <h3 align="center">A enthusiastic fullstack software engineer at #100Devs</h3>
 
-- 💻 I’m currently working on [Codewars Rivals](https://github.com/celiackelly/codewars-rivals)
+- 💻 I’m currently working on [Skillet List](https://github.com/celiackelly/skillet-list)
 
-- 🌱 I’m currently learning **CRUD apps with Express and MongoDB**
+- 🌱 I’m currently learning **CRUD apps with Node.js, Express, and MongoDB**
 
 - 📚 I'm interested in **natural language processing**
 
