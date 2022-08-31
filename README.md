@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **CRUD apps with Node.js, Express, and MongoDB**
 
-- 📚 I'm interested in **natural language processing**
+- 📚 I'm interested in **Edtech** and **natural language processing**
 
 - ✨ All of my projects are available at [https://www.celiackelly.com/](https://www.celiackelly.com/)
 
