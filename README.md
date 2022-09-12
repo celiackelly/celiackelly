@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Celia Kelly</h1>
 <h3 align="center">A enthusiastic fullstack software engineer at #100Devs</h3>
 
-- 💻 I’m currently working on [Skillet List](https://github.com/celiackelly/skillet-list)
+- 💻 I’m currently working on [Classroom Job Board](https://github.com/celiackelly/classroom-job-board)
 
 - 🌱 I’m currently learning **CRUD apps with Node.js, Express, and MongoDB**
 
 - 📚 I'm interested in **Edtech** and **natural language processing**
 
-- ✨ All of my projects are available at [https://www.celiackelly.com/](https://www.celiackelly.com/)
+- ✨ You can view my portfolio at [https://www.celiackelly.com/](https://www.celiackelly.com/)
 
 - 💬 Ask me about **language learning, flying trapeze, word games**
 
