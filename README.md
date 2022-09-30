@@ -3,7 +3,7 @@
 
 - 💻 I’m currently working on [Classroom Job Board](https://github.com/celiackelly/classroom-job-board)
 
-- 🌱 I’m currently learning **CRUD apps with Node.js, Express, and MongoDB**
+- 🌱 I’m currently learning **CRUD apps with MongoDB/Mongoose, Express, Node.js, and React**
 
 - 📚 I'm interested in **Edtech** and **natural language processing**
 
