@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Celia Kelly</h1>
 <h3 align="center">A enthusiastic fullstack software engineer at #100Devs</h3>
 
-- 💻 I’m currently working on [Roman Date Calculator](https://github.com/celiackelly/roman-date-calculator)
+- 💻 I’m currently working on [Roman Date Calculator](https://github.com/celiackelly/roman-date-calculator) and [Classroom Job Board](https://github.com/celiackelly/classroom-job-board)
 
 - 🌱 I’m currently learning **React**
 
