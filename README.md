@@ -3,7 +3,7 @@
 
 - 💻 I’m currently working on [Roman Date Calculator](https://github.com/celiackelly/roman-date-calculator) and [Classroom Job Board](https://github.com/celiackelly/classroom-job-board)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** and **Google Apps Script**
 
 - 📚 I'm interested in **Edtech** and **natural language processing**
 
